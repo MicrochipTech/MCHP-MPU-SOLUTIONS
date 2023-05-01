@@ -569,7 +569,7 @@ Discarded input sections
                 0x00000000       0x34 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_value.o
  .rodata.values
                 0x00000000       0x48 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_value.o
- .debug_info    0x00000000      0x7dd build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_value.o
+ .debug_info    0x00000000      0x7ff build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_value.o
  .debug_abbrev  0x00000000      0x17d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_value.o
  .debug_loc     0x00000000       0x87 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_value.o
  .debug_aranges
@@ -611,7 +611,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_error.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_error.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_error.o
- .debug_info    0x00000000      0x466 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_error.o
+ .debug_info    0x00000000      0x488 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_error.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_error.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_error.o
@@ -671,7 +671,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_stream.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_stream.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_stream.o
- .debug_info    0x00000000      0x465 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_stream.o
+ .debug_info    0x00000000      0x487 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_stream.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_stream.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_stream.o
@@ -763,7 +763,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono1.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono1.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono1.o
- .debug_info    0x00000000      0x479 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono1.o
+ .debug_info    0x00000000      0x49b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono1.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono1.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono1.o
@@ -775,7 +775,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_stream.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_stream.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_stream.o
- .debug_info    0x00000000      0xd00 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_stream.o
+ .debug_info    0x00000000      0xd22 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_stream.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_stream.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_stream.o
@@ -792,7 +792,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono8.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono8.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono8.o
- .debug_info    0x00000000      0x479 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono8.o
+ .debug_info    0x00000000      0x49b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono8.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono8.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_rasterfont_liberationmono8.o
@@ -884,7 +884,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086794059/legato_imagedecoder_mono_read_stream.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086794059/legato_imagedecoder_mono_read_stream.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086794059/legato_imagedecoder_mono_read_stream.o
- .debug_info    0x00000000      0x482 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086794059/legato_imagedecoder_mono_read_stream.o
+ .debug_info    0x00000000      0x4a4 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086794059/legato_imagedecoder_mono_read_stream.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086794059/legato_imagedecoder_mono_read_stream.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086794059/legato_imagedecoder_mono_read_stream.o
@@ -993,7 +993,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rleindex.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rleindex.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rleindex.o
- .debug_info    0x00000000      0x489 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rleindex.o
+ .debug_info    0x00000000      0x4ab build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rleindex.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rleindex.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rleindex.o
@@ -1008,7 +1008,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_index.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_index.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_index.o
- .debug_info    0x00000000      0x486 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_index.o
+ .debug_info    0x00000000      0x4a8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_index.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_index.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_index.o
@@ -1020,7 +1020,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_color.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_color.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_color.o
- .debug_info    0x00000000      0x486 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_color.o
+ .debug_info    0x00000000      0x4a8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_color.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_color.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_color.o
@@ -1032,7 +1032,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rlecolor.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rlecolor.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rlecolor.o
- .debug_info    0x00000000      0x489 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rlecolor.o
+ .debug_info    0x00000000      0x4ab build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rlecolor.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rlecolor.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_stream_rlecolor.o
@@ -1044,7 +1044,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_palette_stream.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_palette_stream.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_palette_stream.o
- .debug_info    0x00000000      0xd13 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_palette_stream.o
+ .debug_info    0x00000000      0xd35 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_palette_stream.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_palette_stream.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_palette_stream.o
@@ -1080,7 +1080,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1381099687/legato_palette.o
  .text.lePalette_GetColor
                 0x00000000       0x3c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1381099687/legato_palette.o
- .debug_info    0x00000000      0x8d8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1381099687/legato_palette.o
+ .debug_info    0x00000000      0x8fa build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1381099687/legato_palette.o
  .debug_abbrev  0x00000000      0x1a8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1381099687/legato_palette.o
  .debug_loc     0x00000000       0xaa build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1381099687/legato_palette.o
  .debug_aranges
@@ -1249,7 +1249,7 @@ Discarded input sections
                 0x00000000       0x1c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_dynamicstring.o
  .rodata.dynamicStringVTable
                 0x00000000       0x70 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_dynamicstring.o
- .debug_info    0x00000000     0x1c48 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_dynamicstring.o
+ .debug_info    0x00000000     0x1c6a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_dynamicstring.o
  .debug_abbrev  0x00000000      0x30d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_dynamicstring.o
  .debug_loc     0x00000000      0xc0c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_dynamicstring.o
  .debug_aranges
@@ -1278,7 +1278,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_string_renderer_stream.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_string_renderer_stream.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_string_renderer_stream.o
- .debug_info    0x00000000      0xd07 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_string_renderer_stream.o
+ .debug_info    0x00000000      0xd29 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_string_renderer_stream.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_string_renderer_stream.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_string_renderer_stream.o
@@ -1304,7 +1304,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc.o
- .debug_info    0x00000000      0x46f build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc.o
+ .debug_info    0x00000000      0x491 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc.o
@@ -1316,7 +1316,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc_skin_classic.o
- .debug_info    0x00000000      0x47c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc_skin_classic.o
+ .debug_info    0x00000000      0x49e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1029185477/legato_widget_arc_skin_classic.o
@@ -1328,7 +1328,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph.o
- .debug_info    0x00000000      0x47a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph.o
+ .debug_info    0x00000000      0x49c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph.o
@@ -1340,7 +1340,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph_skin_classic.o
- .debug_info    0x00000000      0x487 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph_skin_classic.o
+ .debug_info    0x00000000      0x4a9 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1946336466/legato_widget_bar_graph_skin_classic.o
@@ -1358,7 +1358,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox_skin_classic.o
- .debug_info    0x00000000      0x486 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox_skin_classic.o
+ .debug_info    0x00000000      0x4a8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox_skin_classic.o
@@ -1370,7 +1370,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox.o
- .debug_info    0x00000000      0xd09 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox.o
+ .debug_info    0x00000000      0xd2b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/935657338/legato_widget_checkbox.o
@@ -1382,7 +1382,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle_skin_classic.o
- .debug_info    0x00000000      0xd12 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle_skin_classic.o
+ .debug_info    0x00000000      0xd34 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle_skin_classic.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle_skin_classic.o
@@ -1394,7 +1394,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle.o
- .debug_info    0x00000000      0xd05 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle.o
+ .debug_info    0x00000000      0xd27 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1356472903/legato_widget_circle.o
@@ -1406,7 +1406,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge.o
- .debug_info    0x00000000      0x484 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge.o
+ .debug_info    0x00000000      0x4a6 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge.o
@@ -1418,7 +1418,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge_skin_classic.o
- .debug_info    0x00000000      0x491 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge_skin_classic.o
+ .debug_info    0x00000000      0x4b3 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2122148963/legato_widget_circular_gauge_skin_classic.o
@@ -1430,7 +1430,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider.o
- .debug_info    0x00000000      0x486 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider.o
+ .debug_info    0x00000000      0x4a8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider.o
@@ -1442,7 +1442,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider_skin_classic.o
- .debug_info    0x00000000      0x493 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider_skin_classic.o
+ .debug_info    0x00000000      0x4b5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1715456695/legato_widget_circular_slider_skin_classic.o
@@ -1454,7 +1454,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface.o
- .debug_info    0x00000000      0x47f build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface.o
+ .debug_info    0x00000000      0x4a1 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface.o
@@ -1466,7 +1466,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface_skin_classic.o
- .debug_info    0x00000000      0x48c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface_skin_classic.o
+ .debug_info    0x00000000      0x4ae build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1444382766/legato_widget_drawsurface_skin_classic.o
@@ -1478,7 +1478,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient_skin_classic.o
- .debug_info    0x00000000      0x486 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient_skin_classic.o
+ .debug_info    0x00000000      0x4a8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient_skin_classic.o
@@ -1490,7 +1490,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient.o
- .debug_info    0x00000000      0x479 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient.o
+ .debug_info    0x00000000      0x49b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/511583513/legato_widget_gradient.o
@@ -1502,7 +1502,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox.o
- .debug_info    0x00000000      0x479 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox.o
+ .debug_info    0x00000000      0x49b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox.o
@@ -1514,7 +1514,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox_skin_classic.o
- .debug_info    0x00000000      0x486 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox_skin_classic.o
+ .debug_info    0x00000000      0x4a8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/94869853/legato_widget_groupbox_skin_classic.o
@@ -1532,7 +1532,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate_skin_classic.o
- .debug_info    0x00000000      0x48c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate_skin_classic.o
+ .debug_info    0x00000000      0x4ae build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate_skin_classic.o
@@ -1544,7 +1544,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate.o
- .debug_info    0x00000000      0x47f build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate.o
+ .debug_info    0x00000000      0x4a1 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1694778207/legato_widget_imagerotate.o
@@ -1556,7 +1556,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale.o
- .debug_info    0x00000000      0x47d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale.o
+ .debug_info    0x00000000      0x49f build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale.o
@@ -1568,7 +1568,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale_skin_classic.o
- .debug_info    0x00000000      0x48a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale_skin_classic.o
+ .debug_info    0x00000000      0x4ac build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/609407686/legato_widget_imagescale_skin_classic.o
@@ -1586,7 +1586,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad.o
- .debug_info    0x00000000      0xd05 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad.o
+ .debug_info    0x00000000      0xd27 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad.o
@@ -1598,7 +1598,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad_skin_classic.o
- .debug_info    0x00000000      0x482 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad_skin_classic.o
+ .debug_info    0x00000000      0x4a4 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1582032715/legato_widget_keypad_skin_classic.o
@@ -1616,7 +1616,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line.o
- .debug_info    0x00000000      0x471 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line.o
+ .debug_info    0x00000000      0x493 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line.o
@@ -1628,7 +1628,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line_skin_classic.o
- .debug_info    0x00000000      0x47e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line_skin_classic.o
+ .debug_info    0x00000000      0x4a0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659221/legato_widget_line_skin_classic.o
@@ -1640,7 +1640,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph.o
- .debug_info    0x00000000      0xd0c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph.o
+ .debug_info    0x00000000      0xd2e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph.o
@@ -1652,7 +1652,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph_skin_classic.o
- .debug_info    0x00000000      0x489 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph_skin_classic.o
+ .debug_info    0x00000000      0x4ab build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1047821571/legato_widget_line_graph_skin_classic.o
@@ -1664,7 +1664,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list.o
- .debug_info    0x00000000      0xd01 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list.o
+ .debug_info    0x00000000      0xd23 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list.o
@@ -1676,7 +1676,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list_skin_classic.o
- .debug_info    0x00000000      0x47e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list_skin_classic.o
+ .debug_info    0x00000000      0x4a0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1839659051/legato_widget_list_skin_classic.o
@@ -1688,7 +1688,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel.o
- .debug_info    0x00000000      0xd0b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel.o
+ .debug_info    0x00000000      0xd2d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel.o
@@ -1700,7 +1700,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel_skin_classic.o
- .debug_info    0x00000000      0x488 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel_skin_classic.o
+ .debug_info    0x00000000      0x4aa build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1634291878/legato_widget_listwheel_skin_classic.o
@@ -1712,7 +1712,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart_skin_classic.o
- .debug_info    0x00000000      0x487 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart_skin_classic.o
+ .debug_info    0x00000000      0x4a9 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart_skin_classic.o
@@ -1724,7 +1724,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart.o
- .debug_info    0x00000000      0x47a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart.o
+ .debug_info    0x00000000      0x49c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1290198647/legato_widget_pie_chart.o
@@ -1736,7 +1736,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar.o
- .debug_info    0x00000000      0xd0f build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar.o
+ .debug_info    0x00000000      0xd31 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar.o
@@ -1748,7 +1748,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar_skin_classic.o
- .debug_info    0x00000000      0x48c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar_skin_classic.o
+ .debug_info    0x00000000      0x4ae build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/231973969/legato_widget_progressbar_skin_classic.o
@@ -1760,7 +1760,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_state.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_state.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_state.o
- .debug_info    0x00000000      0xd14 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_state.o
+ .debug_info    0x00000000      0xd36 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_state.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_state.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_state.o
@@ -1772,7 +1772,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu.o
- .debug_info    0x00000000      0xd0e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu.o
+ .debug_info    0x00000000      0xd30 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu.o
@@ -1784,7 +1784,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_skin_classic.o
- .debug_info    0x00000000      0xd1b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_skin_classic.o
+ .debug_info    0x00000000      0xd3d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_skin_classic.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu_skin_classic.o
@@ -1796,7 +1796,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_radiobutton_group.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_radiobutton_group.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_radiobutton_group.o
- .debug_info    0x00000000      0x47e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_radiobutton_group.o
+ .debug_info    0x00000000      0x4a0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_radiobutton_group.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_radiobutton_group.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_radiobutton_group.o
@@ -1808,7 +1808,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton.o
- .debug_info    0x00000000      0xd0f build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton.o
+ .debug_info    0x00000000      0xd31 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton.o
@@ -1820,7 +1820,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton_skin_classic.o
- .debug_info    0x00000000      0x48c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton_skin_classic.o
+ .debug_info    0x00000000      0x4ae build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1338867754/legato_widget_radiobutton_skin_classic.o
@@ -1838,7 +1838,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar.o
- .debug_info    0x00000000      0xd0b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar.o
+ .debug_info    0x00000000      0xd2d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar.o
@@ -1850,7 +1850,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar_skin_classic.o
- .debug_info    0x00000000      0x488 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar_skin_classic.o
+ .debug_info    0x00000000      0x4aa build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1040606897/legato_widget_scrollbar_skin_classic.o
@@ -1862,7 +1862,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider.o
- .debug_info    0x00000000      0xd05 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider.o
+ .debug_info    0x00000000      0xd27 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider.o
@@ -1874,7 +1874,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider_skin_classic.o
- .debug_info    0x00000000      0x482 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider_skin_classic.o
+ .debug_info    0x00000000      0x4a4 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1817042520/legato_widget_slider_skin_classic.o
@@ -1886,7 +1886,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield.o
- .debug_info    0x00000000      0xd0b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield.o
+ .debug_info    0x00000000      0xd2d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield.o
@@ -1898,7 +1898,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield_skin_classic.o
- .debug_info    0x00000000      0xd18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield_skin_classic.o
+ .debug_info    0x00000000      0xd3a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield_skin_classic.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1805132566/legato_widget_textfield_skin_classic.o
@@ -1910,7 +1910,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest.o
- .debug_info    0x00000000      0x47b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest.o
+ .debug_info    0x00000000      0x49d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest.o
@@ -1922,7 +1922,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest_skin_classic.o
- .debug_info    0x00000000      0xd18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest_skin_classic.o
+ .debug_info    0x00000000      0xd3a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest_skin_classic.o
  .debug_abbrev  0x00000000      0x17b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1093664902/legato_widget_touchtest_skin_classic.o
@@ -1934,7 +1934,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window_skin_classic.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window_skin_classic.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window_skin_classic.o
- .debug_info    0x00000000      0x482 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window_skin_classic.o
+ .debug_info    0x00000000      0x4a4 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window_skin_classic.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window_skin_classic.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window_skin_classic.o
@@ -1946,7 +1946,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window.o
  .data          0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window.o
  .bss           0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window.o
- .debug_info    0x00000000      0x475 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window.o
+ .debug_info    0x00000000      0x497 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window.o
  .debug_abbrev  0x00000000       0xb5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window.o
  .debug_aranges
                 0x00000000       0x18 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1928937831/legato_widget_window.o
@@ -1994,7 +1994,7 @@ Discarded input sections
                 0x00000000       0x20 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_editwidget.o
  .rodata.editWidgetVTable
                 0x00000000      0x150 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_editwidget.o
- .debug_info    0x00000000     0x38e0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_editwidget.o
+ .debug_info    0x00000000     0x3902 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_editwidget.o
  .debug_abbrev  0x00000000      0x348 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_editwidget.o
  .debug_loc     0x00000000      0x1f9 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_editwidget.o
  .debug_aranges
@@ -2180,7 +2180,7 @@ Discarded input sections
                 0x00000000        0xc build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1408246553/sys_cache.o
  .text.SYS_CACHE_CleanInvalidateDCache_by_Addr
                 0x00000000        0xc build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1408246553/sys_cache.o
- .debug_info    0x00000000      0x78e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1408246553/sys_cache.o
+ .debug_info    0x00000000      0x7b0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1408246553/sys_cache.o
  .debug_abbrev  0x00000000       0xae build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1408246553/sys_cache.o
  .debug_loc     0x00000000      0x27e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1408246553/sys_cache.o
  .debug_aranges
@@ -2242,7 +2242,7 @@ Discarded input sections
                 0x00000000        0x4 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1414187873/sys_input_listener.o
  .text.SYS_INP_ListenerInit
                 0x00000000       0x8c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1414187873/sys_input_listener.o
- .debug_info    0x00000000     0x1800 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1414187873/sys_input_listener.o
+ .debug_info    0x00000000     0x1822 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1414187873/sys_input_listener.o
  .debug_abbrev  0x00000000      0x105 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1414187873/sys_input_listener.o
  .debug_aranges
                 0x00000000       0x70 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1414187873/sys_input_listener.o
@@ -8322,151 +8322,151 @@ LOAD data_init
  .comment       0x0000002b       0x2c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(close.o)
  .comment       0x0000002b       0x2c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(lseek.o)
 
-.debug_info     0x00000000    0xe5054
- .debug_info    0x00000000      0x964 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/236556520/bsp.o
- .debug_info    0x00000964     0x2c10 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/103208383/drv_i2c.o
- .debug_info    0x00003574     0x618b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1959449242/drv_maxtouch.o
- .debug_info    0x000096ff     0x189c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1121151461/gfx_canvas_api.o
- .debug_info    0x0000af9b     0x2c02 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1121151461/gfx_canvas.o
- .debug_info    0x0000db9d     0x2cd6 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1165331637/gfx_driver.o
- .debug_info    0x00010873     0x3287 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/129784465/drv_gfx_lcdc.o
- .debug_info    0x00013afa     0x19df build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_math.o
- .debug_info    0x000154d9      0x8e1 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_blend.o
- .debug_info    0x00015dba     0x2073 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_convert.o
- .debug_info    0x00017e2d      0xa83 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_rect.o
- .debug_info    0x000188b0     0x31a1 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_utils.o
- .debug_info    0x0001ba51     0x1974 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_pixelbuffer.o
- .debug_info    0x0001d3c5      0xfe4 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_lerp.o
- .debug_info    0x0001e3a9      0xa7c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color.o
- .debug_info    0x0001ee25     0x520e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_state.o
- .debug_info    0x00024033     0x1439 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_scheme.o
- .debug_info    0x0002546c     0x23a8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_event.o
- .debug_info    0x00027814     0x44b2 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_input.o
- .debug_info    0x0002bcc6     0x14ac build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/109670485/legato_rectarray.o
- .debug_info    0x0002d172      0xbb1 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/109670485/legato_array.o
- .debug_info    0x0002dd23      0xc6d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/109670485/legato_list.o
- .debug_info    0x0002e990     0x215a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_font.o
- .debug_info    0x00030aea     0x1058 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/644506877/le_gen_fonts.o
- .debug_info    0x00031b42     0x1dd9 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1497821479/le_gen_images.o
- .debug_info    0x0003391b     0x6392 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/534613472/le_gen_screen_Screen0.o
- .debug_info    0x00039cad     0x7e04 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/534613472/le_gen_screen_Screen1.o
- .debug_info    0x00041ab1     0x1194 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/706129189/le_gen_init.o
- .debug_info    0x00042c45      0xf61 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/706129189/le_gen_globalpalette.o
- .debug_info    0x00043ba6     0x11db build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/706129189/le_gen_scheme.o
- .debug_info    0x00044d81     0x207b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/706129189/le_gen_stringtable.o
- .debug_info    0x00046dfc     0x28ab build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/706129189/le_gen_harmony.o
- .debug_info    0x000496a7     0x240a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086705360/legato_imagedecoder_jpeg.o
- .debug_info    0x0004bab1     0x22db build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086705360/legato_imagedecoder_jpeg_common.o
- .debug_info    0x0004dd8c      0x66f build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086705360/jidctint.o
- .debug_info    0x0004e3fb      0xd8c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086794059/legato_imagedecoder_mono_read_internal.o
- .debug_info    0x0004f187     0x2112 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086794059/legato_imagedecoder_mono.o
- .debug_info    0x00051299     0x8dc2 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872343871/lodepng.o
- .debug_info    0x0005a05b     0x1a4a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872343871/legato_imagedecoder_png.o
- .debug_info    0x0005baa5     0x105e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_setup.o
- .debug_info    0x0005cb03     0x13f4 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_scale.o
- .debug_info    0x0005def7     0x31d7 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw.o
- .debug_info    0x000610ce     0x1c2c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_internal.o
- .debug_info    0x00062cfa     0x189c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_write.o
- .debug_info    0x00064596     0x192c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_blend.o
- .debug_info    0x00065ec2      0xf77 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_mask.o
- .debug_info    0x00066e39     0x1785 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_convert.o
- .debug_info    0x000685be     0x12d0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_rotate.o
- .debug_info    0x0006988e     0x1a78 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_palette_internal.o
- .debug_info    0x0006b306      0xb99 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1381099687/legato_image_utils.o
- .debug_info    0x0006be9f     0x20c7 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1381099687/legato_image.o
- .debug_info    0x0006df66      0x90a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/28088523/legato_fixedheap.o
- .debug_info    0x0006e870     0x1349 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/28088523/legato_memory.o
- .debug_info    0x0006fbb9     0x1ff2 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/28088523/legato_variableheap.o
- .debug_info    0x00071bab     0x120f build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_draw_rect.o
- .debug_info    0x00072dba     0x1447 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_draw_line.o
- .debug_info    0x00074201     0x5b9e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_renderer.o
- .debug_info    0x00079d9f     0x1d86 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_draw.o
- .debug_info    0x0007bb25     0x1f1a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_draw_arc.o
- .debug_info    0x0007da3f     0x1903 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_gpu.o
- .debug_info    0x0007f342     0x1a38 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_string_renderer.o
- .debug_info    0x00080d7a     0x1963 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_stringutils.o
- .debug_info    0x000826dd     0x260a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_tablestring.o
- .debug_info    0x00084ce7     0x22a9 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_string.o
- .debug_info    0x00086f90     0x1aaf build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_fixedstring.o
- .debug_info    0x00088a3f     0x14c3 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_stringtable.o
- .debug_info    0x00089f02     0x47e8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1339002025/legato_widget_button.o
- .debug_info    0x0008e6ea     0x4716 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1339002025/legato_widget_button_skin_classic.o
- .debug_info    0x00092e00     0x3406 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1197524732/legato_widget_image_skin_classic.o
- .debug_info    0x00096206     0x3392 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1197524732/legato_widget_image.o
- .debug_info    0x00099598     0x387c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2015859515/legato_widget_imagesequence_skin_classic.o
- .debug_info    0x0009ce14     0x339c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2015859515/legato_widget_imagesequence.o
- .debug_info    0x000a01b0     0x3856 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1195110755/legato_widget_label.o
- .debug_info    0x000a3a06     0x3c25 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1195110755/legato_widget_label_skin_classic.o
- .debug_info    0x000a762b     0x27c9 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/337100648/legato_widget_rectangle.o
- .debug_info    0x000a9df4     0x339b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/337100648/legato_widget_rectangle_skin_classic.o
- .debug_info    0x000ad18f     0x2a99 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_widget_skin_classic.o
- .debug_info    0x000afc28     0x4fef build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_widget.o
- .debug_info    0x000b4c17     0x3cf0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_widget_skin_classic_common.o
- .debug_info    0x000b8907     0x1875 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/4986847/plib_aic.o
- .debug_info    0x000ba17c      0x8aa build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/4988870/plib_clk.o
- .debug_info    0x000baa26     0x16aa build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/813772974/plib_flexcom6_twi_master.o
- .debug_info    0x000bc0d0     0x3f37 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/154914322/plib_lcdc.o
- .debug_info    0x000c0007      0xe26 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/4998521/plib_mmu.o
- .debug_info    0x000c0e2d      0xbc5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/5001274/plib_pio.o
- .debug_info    0x000c19f2      0xf2a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/5003525/plib_rtc.o
- .debug_info    0x000c291c      0xb58 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1247087435/plib_tc0.o
- .debug_info    0x000c3474      0x332 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/286729486/xc32_monitor.o
- .debug_info    0x000c37a6     0x1eee build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1414187873/sys_input.o
- .debug_info    0x000c5694     0x1149 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1826491803/sys_int.o
- .debug_info    0x000c67dd     0x29f1 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1812361045/sys_time.o
- .debug_info    0x000c91ce     0x2a9f build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/initialization.o
- .debug_info    0x000cbc6d       0x22 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/cstartup.o
- .debug_info    0x000cbc8f      0x2f0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/fault_handlers.o
- .debug_info    0x000cbf7f     0x1637 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/interrupts.o
- .debug_info    0x000cd5b6     0x1286 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/tasks.o
- .debug_info    0x000ce83c     0x13eb build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app.o
- .debug_info    0x000cfc27     0x1176 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/main.o
- .debug_info    0x000d0d9d     0x40b0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen0.o
- .debug_info    0x000d4e4d     0x6456 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen1.o
- .debug_info    0x000db2a3      0x28e c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_wrapper.o)
- .debug_info    0x000db531      0x291 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_0_1.o)
- .debug_info    0x000db7c2       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivsi3.o)
- .debug_info    0x000db7e8       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_divsi3.o)
- .debug_info    0x000db80e       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_dvmd_tls.o)
- .debug_info    0x000db834       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_addsubsf3.o)
- .debug_info    0x000db85a       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_muldivsf3.o)
- .debug_info    0x000db880       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_cmpsf2.o)
- .debug_info    0x000db8a6       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixsfsi.o)
- .debug_info    0x000db8cc       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixunssfsi.o)
- .debug_info    0x000db8f2       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_aeabi_uldivmod.o)
- .debug_info    0x000db918      0x3ee c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivmoddi4.o)
- .debug_info    0x000dbd06      0x60f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__libc_start_main.o)
- .debug_info    0x000dc315      0x521 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(libc.o)
- .debug_info    0x000dc836      0x46c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__sio_sprintf_doux.o)
- .debug_info    0x000dcca2      0x5ae c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_d.o)
- .debug_info    0x000dd250      0x57f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_o.o)
- .debug_info    0x000dd7cf      0x5c0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_s.o)
- .debug_info    0x000ddd8f      0x642 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_u.o)
- .debug_info    0x000de3d1      0x5eb c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_x.o)
- .debug_info    0x000de9bc      0x3ec c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_int.o)
- .debug_info    0x000deda8      0x3f2 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_ptr.o)
- .debug_info    0x000df19a      0xcfa c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__printf_core.o)
- .debug_info    0x000dfe94      0x46f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(stdout.o)
- .debug_info    0x000e0303      0x2e7 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(atoi.o)
- .debug_info    0x000e05ea      0x2dc c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memcpy.o)
- .debug_info    0x000e08c6      0x2a1 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memset.o)
- .debug_info    0x000e0b67      0x292 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(strlen.o)
- .debug_info    0x000e0df9      0x33f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(tolower.o)
- .debug_info    0x000e1138      0x33f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(toupper.o)
- .debug_info    0x000e1477      0x29b c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__environ.o)
- .debug_info    0x000e1712      0x25f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__errno_location.o)
- .debug_info    0x000e1971      0x465 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vfprintf.o)
- .debug_info    0x000e1dd6      0x390 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsprintf.o)
- .debug_info    0x000e2166      0x3c9 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_float.o)
- .debug_info    0x000e252f      0x493 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsnprintf.o)
- .debug_info    0x000e29c2      0x318 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__init_stdio.o)
- .debug_info    0x000e2cda      0x51c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__out.o)
- .debug_info    0x000e31f6      0x6a4 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_close.o)
- .debug_info    0x000e389a      0x760 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_seek.o)
- .debug_info    0x000e3ffa      0x650 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdout.o)
- .debug_info    0x000e464a      0x532 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fwrite.o)
- .debug_info    0x000e4b7c      0x26c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(close.o)
- .debug_info    0x000e4de8      0x26c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(lseek.o)
+.debug_info     0x00000000    0xe5d7a
+ .debug_info    0x00000000      0x986 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/236556520/bsp.o
+ .debug_info    0x00000986     0x2c32 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/103208383/drv_i2c.o
+ .debug_info    0x000035b8     0x61ad build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1959449242/drv_maxtouch.o
+ .debug_info    0x00009765     0x18be build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1121151461/gfx_canvas_api.o
+ .debug_info    0x0000b023     0x2c24 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1121151461/gfx_canvas.o
+ .debug_info    0x0000dc47     0x2cf8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1165331637/gfx_driver.o
+ .debug_info    0x0001093f     0x32a9 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/129784465/drv_gfx_lcdc.o
+ .debug_info    0x00013be8     0x1a01 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_math.o
+ .debug_info    0x000155e9      0x903 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_blend.o
+ .debug_info    0x00015eec     0x2095 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_convert.o
+ .debug_info    0x00017f81      0xaa5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_rect.o
+ .debug_info    0x00018a26     0x31c3 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_utils.o
+ .debug_info    0x0001bbe9     0x1996 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_pixelbuffer.o
+ .debug_info    0x0001d57f     0x1006 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color_lerp.o
+ .debug_info    0x0001e585      0xa9e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/305146849/legato_color.o
+ .debug_info    0x0001f023     0x5230 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_state.o
+ .debug_info    0x00024253     0x145b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_scheme.o
+ .debug_info    0x000256ae     0x23ca build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_event.o
+ .debug_info    0x00027a78     0x44d4 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618192685/legato_input.o
+ .debug_info    0x0002bf4c     0x14ce build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/109670485/legato_rectarray.o
+ .debug_info    0x0002d41a      0xbd3 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/109670485/legato_array.o
+ .debug_info    0x0002dfed      0xc8f build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/109670485/legato_list.o
+ .debug_info    0x0002ec7c     0x217c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1618103421/legato_font.o
+ .debug_info    0x00030df8     0x107a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/644506877/le_gen_fonts.o
+ .debug_info    0x00031e72     0x1dfb build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1497821479/le_gen_images.o
+ .debug_info    0x00033c6d     0x63b4 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/534613472/le_gen_screen_Screen0.o
+ .debug_info    0x0003a021     0x7e26 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/534613472/le_gen_screen_Screen1.o
+ .debug_info    0x00041e47     0x11b6 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/706129189/le_gen_init.o
+ .debug_info    0x00042ffd      0xf83 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/706129189/le_gen_globalpalette.o
+ .debug_info    0x00043f80     0x11fd build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/706129189/le_gen_scheme.o
+ .debug_info    0x0004517d     0x209d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/706129189/le_gen_stringtable.o
+ .debug_info    0x0004721a     0x28cd build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/706129189/le_gen_harmony.o
+ .debug_info    0x00049ae7     0x242c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086705360/legato_imagedecoder_jpeg.o
+ .debug_info    0x0004bf13     0x22fd build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086705360/legato_imagedecoder_jpeg_common.o
+ .debug_info    0x0004e210      0x691 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086705360/jidctint.o
+ .debug_info    0x0004e8a1      0xdae build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086794059/legato_imagedecoder_mono_read_internal.o
+ .debug_info    0x0004f64f     0x2134 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2086794059/legato_imagedecoder_mono.o
+ .debug_info    0x00051783     0x8de4 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872343871/lodepng.o
+ .debug_info    0x0005a567     0x1a6c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872343871/legato_imagedecoder_png.o
+ .debug_info    0x0005bfd3     0x1080 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_setup.o
+ .debug_info    0x0005d053     0x1416 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_scale.o
+ .debug_info    0x0005e469     0x31f9 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw.o
+ .debug_info    0x00061662     0x1c4e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_read_internal.o
+ .debug_info    0x000632b0     0x18be build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_write.o
+ .debug_info    0x00064b6e     0x194e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_blend.o
+ .debug_info    0x000664bc      0xf99 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_mask.o
+ .debug_info    0x00067455     0x17a7 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_convert.o
+ .debug_info    0x00068bfc     0x12f2 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_rotate.o
+ .debug_info    0x00069eee     0x1a9a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1872342336/legato_imagedecoder_raw_palette_internal.o
+ .debug_info    0x0006b988      0xbbb build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1381099687/legato_image_utils.o
+ .debug_info    0x0006c543     0x20e9 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1381099687/legato_image.o
+ .debug_info    0x0006e62c      0x92c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/28088523/legato_fixedheap.o
+ .debug_info    0x0006ef58     0x136b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/28088523/legato_memory.o
+ .debug_info    0x000702c3     0x2014 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/28088523/legato_variableheap.o
+ .debug_info    0x000722d7     0x1231 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_draw_rect.o
+ .debug_info    0x00073508     0x1469 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_draw_line.o
+ .debug_info    0x00074971     0x5bc0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_renderer.o
+ .debug_info    0x0007a531     0x1da8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_draw.o
+ .debug_info    0x0007c2d9     0x1f3c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_draw_arc.o
+ .debug_info    0x0007e215     0x1925 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1081070089/legato_gpu.o
+ .debug_info    0x0007fb3a     0x1a5a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_string_renderer.o
+ .debug_info    0x00081594     0x1985 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_stringutils.o
+ .debug_info    0x00082f19     0x262c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_tablestring.o
+ .debug_info    0x00085545     0x22cb build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_string.o
+ .debug_info    0x00087810     0x1ad1 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_fixedstring.o
+ .debug_info    0x000892e1     0x14e5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/157682245/legato_stringtable.o
+ .debug_info    0x0008a7c6     0x480a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1339002025/legato_widget_button.o
+ .debug_info    0x0008efd0     0x4738 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1339002025/legato_widget_button_skin_classic.o
+ .debug_info    0x00093708     0x3428 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1197524732/legato_widget_image_skin_classic.o
+ .debug_info    0x00096b30     0x33b4 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1197524732/legato_widget_image.o
+ .debug_info    0x00099ee4     0x389e build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2015859515/legato_widget_imagesequence_skin_classic.o
+ .debug_info    0x0009d782     0x33be build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2015859515/legato_widget_imagesequence.o
+ .debug_info    0x000a0b40     0x3878 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1195110755/legato_widget_label.o
+ .debug_info    0x000a43b8     0x3c47 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1195110755/legato_widget_label_skin_classic.o
+ .debug_info    0x000a7fff     0x27eb build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/337100648/legato_widget_rectangle.o
+ .debug_info    0x000aa7ea     0x33bd build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/337100648/legato_widget_rectangle_skin_classic.o
+ .debug_info    0x000adba7     0x2abb build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_widget_skin_classic.o
+ .debug_info    0x000b0662     0x5011 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_widget.o
+ .debug_info    0x000b5673     0x3d12 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/261620856/legato_widget_skin_classic_common.o
+ .debug_info    0x000b9385     0x1897 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/4986847/plib_aic.o
+ .debug_info    0x000bac1c      0x8cc build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/4988870/plib_clk.o
+ .debug_info    0x000bb4e8     0x16cc build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/813772974/plib_flexcom6_twi_master.o
+ .debug_info    0x000bcbb4     0x3f59 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/154914322/plib_lcdc.o
+ .debug_info    0x000c0b0d      0xe48 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/4998521/plib_mmu.o
+ .debug_info    0x000c1955      0xbe7 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/5001274/plib_pio.o
+ .debug_info    0x000c253c      0xf4c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/5003525/plib_rtc.o
+ .debug_info    0x000c3488      0xb7a build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1247087435/plib_tc0.o
+ .debug_info    0x000c4002      0x354 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/286729486/xc32_monitor.o
+ .debug_info    0x000c4356     0x1f10 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1414187873/sys_input.o
+ .debug_info    0x000c6266     0x116b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1826491803/sys_int.o
+ .debug_info    0x000c73d1     0x2a13 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1812361045/sys_time.o
+ .debug_info    0x000c9de4     0x2ac1 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/initialization.o
+ .debug_info    0x000cc8a5       0x22 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/cstartup.o
+ .debug_info    0x000cc8c7      0x312 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/fault_handlers.o
+ .debug_info    0x000ccbd9     0x1659 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/interrupts.o
+ .debug_info    0x000ce232     0x12a8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/tasks.o
+ .debug_info    0x000cf4da     0x140d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app.o
+ .debug_info    0x000d08e7     0x1198 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/main.o
+ .debug_info    0x000d1a7f     0x40d2 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen0.o
+ .debug_info    0x000d5b51     0x6478 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen1.o
+ .debug_info    0x000dbfc9      0x28e c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_wrapper.o)
+ .debug_info    0x000dc257      0x291 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_0_1.o)
+ .debug_info    0x000dc4e8       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivsi3.o)
+ .debug_info    0x000dc50e       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_divsi3.o)
+ .debug_info    0x000dc534       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x000dc55a       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_info    0x000dc580       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_info    0x000dc5a6       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_info    0x000dc5cc       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixsfsi.o)
+ .debug_info    0x000dc5f2       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_info    0x000dc618       0x26 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x000dc63e      0x3ee c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_info    0x000dca2c      0x60f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__libc_start_main.o)
+ .debug_info    0x000dd03b      0x521 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(libc.o)
+ .debug_info    0x000dd55c      0x46c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__sio_sprintf_doux.o)
+ .debug_info    0x000dd9c8      0x5ae c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_d.o)
+ .debug_info    0x000ddf76      0x57f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_o.o)
+ .debug_info    0x000de4f5      0x5c0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_s.o)
+ .debug_info    0x000deab5      0x642 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_u.o)
+ .debug_info    0x000df0f7      0x5eb c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_x.o)
+ .debug_info    0x000df6e2      0x3ec c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_int.o)
+ .debug_info    0x000dface      0x3f2 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_ptr.o)
+ .debug_info    0x000dfec0      0xcfa c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__printf_core.o)
+ .debug_info    0x000e0bba      0x46f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(stdout.o)
+ .debug_info    0x000e1029      0x2e7 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(atoi.o)
+ .debug_info    0x000e1310      0x2dc c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memcpy.o)
+ .debug_info    0x000e15ec      0x2a1 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memset.o)
+ .debug_info    0x000e188d      0x292 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(strlen.o)
+ .debug_info    0x000e1b1f      0x33f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(tolower.o)
+ .debug_info    0x000e1e5e      0x33f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(toupper.o)
+ .debug_info    0x000e219d      0x29b c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__environ.o)
+ .debug_info    0x000e2438      0x25f c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__errno_location.o)
+ .debug_info    0x000e2697      0x465 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vfprintf.o)
+ .debug_info    0x000e2afc      0x390 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsprintf.o)
+ .debug_info    0x000e2e8c      0x3c9 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_float.o)
+ .debug_info    0x000e3255      0x493 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsnprintf.o)
+ .debug_info    0x000e36e8      0x318 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__init_stdio.o)
+ .debug_info    0x000e3a00      0x51c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__out.o)
+ .debug_info    0x000e3f1c      0x6a4 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_close.o)
+ .debug_info    0x000e45c0      0x760 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_seek.o)
+ .debug_info    0x000e4d20      0x650 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdout.o)
+ .debug_info    0x000e5370      0x532 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fwrite.o)
+ .debug_info    0x000e58a2      0x26c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(close.o)
+ .debug_info    0x000e5b0e      0x26c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(lseek.o)
 
 .debug_abbrev   0x00000000    0x15005
  .debug_abbrev  0x00000000       0x99 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/236556520/bsp.o
@@ -9033,7 +9033,7 @@ LOAD data_init
  .debug_ranges  0x000045d8       0x10 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(close.o)
  .debug_ranges  0x000045e8       0x10 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(lseek.o)
 
-.debug_line     0x00000000    0x34a8a
+.debug_line     0x00000000    0x34a8e
  .debug_line    0x00000000       0xea build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/236556520/bsp.o
  .debug_line    0x000000ea      0xfb6 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/103208383/drv_i2c.o
  .debug_line    0x000010a0     0x1afc build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1959449242/drv_maxtouch.o
@@ -9125,61 +9125,61 @@ LOAD data_init
  .debug_line    0x0002c67b      0x772 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1414187873/sys_input.o
  .debug_line    0x0002cded      0x564 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1826491803/sys_int.o
  .debug_line    0x0002d351     0x11c3 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1812361045/sys_time.o
- .debug_line    0x0002e514      0x847 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/initialization.o
- .debug_line    0x0002ed5b      0x106 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/cstartup.o
- .debug_line    0x0002ee61       0xae build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/fault_handlers.o
- .debug_line    0x0002ef0f      0x280 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/interrupts.o
- .debug_line    0x0002f18f      0x340 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/tasks.o
- .debug_line    0x0002f4cf      0x281 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app.o
- .debug_line    0x0002f750      0x1c6 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/main.o
- .debug_line    0x0002f916      0x4d8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen0.o
- .debug_line    0x0002fdee      0x9b8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen1.o
- .debug_line    0x000307a6       0xa8 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_wrapper.o)
- .debug_line    0x0003084e       0xfb c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_0_1.o)
- .debug_line    0x00030949       0xb3 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivsi3.o)
- .debug_line    0x000309fc       0xbf c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_divsi3.o)
- .debug_line    0x00030abb       0x97 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_dvmd_tls.o)
- .debug_line    0x00030b52      0x136 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_addsubsf3.o)
- .debug_line    0x00030c88      0x159 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_muldivsf3.o)
- .debug_line    0x00030de1       0xdc c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_cmpsf2.o)
- .debug_line    0x00030ebd       0xae c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixsfsi.o)
- .debug_line    0x00030f6b       0xac c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixunssfsi.o)
- .debug_line    0x00031017       0x97 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_aeabi_uldivmod.o)
- .debug_line    0x000310ae      0x185 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivmoddi4.o)
- .debug_line    0x00031233      0x1d1 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__libc_start_main.o)
- .debug_line    0x00031404       0xbb c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(libc.o)
- .debug_line    0x000314bf      0x1b1 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__sio_sprintf_doux.o)
- .debug_line    0x00031670      0x212 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_d.o)
- .debug_line    0x00031882      0x1c8 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_o.o)
- .debug_line    0x00031a4a      0x212 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_s.o)
- .debug_line    0x00031c5c      0x246 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_u.o)
- .debug_line    0x00031ea2      0x2e2 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_x.o)
- .debug_line    0x00032184      0x214 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_int.o)
- .debug_line    0x00032398      0x1e7 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_ptr.o)
- .debug_line    0x0003257f      0x6c8 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__printf_core.o)
- .debug_line    0x00032c47      0x18d c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(stdout.o)
- .debug_line    0x00032dd4      0x162 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(atoi.o)
- .debug_line    0x00032f36       0xe5 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memcpy.o)
- .debug_line    0x0003301b       0xe3 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memset.o)
- .debug_line    0x000330fe       0xe3 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(strlen.o)
- .debug_line    0x000331e1      0x163 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(tolower.o)
- .debug_line    0x00033344      0x163 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(toupper.o)
- .debug_line    0x000334a7      0x107 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__environ.o)
- .debug_line    0x000335ae       0xa0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__errno_location.o)
- .debug_line    0x0003364e      0x17a c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vfprintf.o)
- .debug_line    0x000337c8      0x159 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsprintf.o)
- .debug_line    0x00033921      0x171 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_float.o)
- .debug_line    0x00033a92      0x1d0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsnprintf.o)
- .debug_line    0x00033c62       0xce c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__init_stdio.o)
- .debug_line    0x00033d30      0x22a c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__out.o)
- .debug_line    0x00033f5a      0x2fa c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_close.o)
- .debug_line    0x00034254      0x32c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_seek.o)
- .debug_line    0x00034580      0x1e2 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdout.o)
- .debug_line    0x00034762      0x1f0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fwrite.o)
- .debug_line    0x00034952       0x9c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(close.o)
- .debug_line    0x000349ee       0x9c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(lseek.o)
+ .debug_line    0x0002e514      0x84b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/initialization.o
+ .debug_line    0x0002ed5f      0x106 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/cstartup.o
+ .debug_line    0x0002ee65       0xae build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/fault_handlers.o
+ .debug_line    0x0002ef13      0x280 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/interrupts.o
+ .debug_line    0x0002f193      0x340 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/tasks.o
+ .debug_line    0x0002f4d3      0x281 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app.o
+ .debug_line    0x0002f754      0x1c6 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/main.o
+ .debug_line    0x0002f91a      0x4d8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen0.o
+ .debug_line    0x0002fdf2      0x9b8 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen1.o
+ .debug_line    0x000307aa       0xa8 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_wrapper.o)
+ .debug_line    0x00030852       0xfb c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_0_1.o)
+ .debug_line    0x0003094d       0xb3 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivsi3.o)
+ .debug_line    0x00030a00       0xbf c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_divsi3.o)
+ .debug_line    0x00030abf       0x97 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00030b56      0x136 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_line    0x00030c8c      0x159 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_line    0x00030de5       0xdc c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_line    0x00030ec1       0xae c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixsfsi.o)
+ .debug_line    0x00030f6f       0xac c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_line    0x0003101b       0x97 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x000310b2      0x185 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_line    0x00031237      0x1d1 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__libc_start_main.o)
+ .debug_line    0x00031408       0xbb c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(libc.o)
+ .debug_line    0x000314c3      0x1b1 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__sio_sprintf_doux.o)
+ .debug_line    0x00031674      0x212 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_d.o)
+ .debug_line    0x00031886      0x1c8 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_o.o)
+ .debug_line    0x00031a4e      0x212 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_s.o)
+ .debug_line    0x00031c60      0x246 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_u.o)
+ .debug_line    0x00031ea6      0x2e2 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_x.o)
+ .debug_line    0x00032188      0x214 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_int.o)
+ .debug_line    0x0003239c      0x1e7 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_ptr.o)
+ .debug_line    0x00032583      0x6c8 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__printf_core.o)
+ .debug_line    0x00032c4b      0x18d c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(stdout.o)
+ .debug_line    0x00032dd8      0x162 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(atoi.o)
+ .debug_line    0x00032f3a       0xe5 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memcpy.o)
+ .debug_line    0x0003301f       0xe3 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memset.o)
+ .debug_line    0x00033102       0xe3 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(strlen.o)
+ .debug_line    0x000331e5      0x163 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(tolower.o)
+ .debug_line    0x00033348      0x163 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(toupper.o)
+ .debug_line    0x000334ab      0x107 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__environ.o)
+ .debug_line    0x000335b2       0xa0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__errno_location.o)
+ .debug_line    0x00033652      0x17a c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vfprintf.o)
+ .debug_line    0x000337cc      0x159 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsprintf.o)
+ .debug_line    0x00033925      0x171 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_float.o)
+ .debug_line    0x00033a96      0x1d0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsnprintf.o)
+ .debug_line    0x00033c66       0xce c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__init_stdio.o)
+ .debug_line    0x00033d34      0x22a c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__out.o)
+ .debug_line    0x00033f5e      0x2fa c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_close.o)
+ .debug_line    0x00034258      0x32c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_seek.o)
+ .debug_line    0x00034584      0x1e2 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdout.o)
+ .debug_line    0x00034766      0x1f0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fwrite.o)
+ .debug_line    0x00034956       0x9c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(close.o)
+ .debug_line    0x000349f2       0x9c c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(lseek.o)
 
-.debug_str      0x00000000     0xf1be
+.debug_str      0x00000000     0xf1e0
  .debug_str     0x00000000        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/236556520/bsp.o
  .debug_str     0x00000000      0x19f build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/103208383/drv_i2c.o
  .debug_str     0x0000019f      0x361 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1959449242/drv_maxtouch.o
@@ -9272,58 +9272,58 @@ LOAD data_init
  .debug_str     0x0000d064       0x64 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1826491803/sys_int.o
  .debug_str     0x0000d0c8      0x14b build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1812361045/sys_time.o
  .debug_str     0x0000d213      0x243 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/initialization.o
- .debug_str     0x0000d456       0x90 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/cstartup.o
- .debug_str     0x0000d4e6        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/fault_handlers.o
- .debug_str     0x0000d4e6       0xe9 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/interrupts.o
- .debug_str     0x0000d5cf      0x12c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/tasks.o
- .debug_str     0x0000d6fb      0x13d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app.o
- .debug_str     0x0000d838       0xed build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/main.o
- .debug_str     0x0000d925      0x6da build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen0.o
- .debug_str     0x0000dfff      0x8b5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen1.o
- .debug_str     0x0000e8b4        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_wrapper.o)
- .debug_str     0x0000e8b4        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_0_1.o)
- .debug_str     0x0000e8b4       0xe5 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivsi3.o)
- .debug_str     0x0000e999       0xe5 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_divsi3.o)
- .debug_str     0x0000ea7e       0xe5 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_dvmd_tls.o)
- .debug_str     0x0000eb63       0xe6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_addsubsf3.o)
- .debug_str     0x0000ec49       0xe6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_muldivsf3.o)
- .debug_str     0x0000ed2f       0xe6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_cmpsf2.o)
- .debug_str     0x0000ee15       0xe6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixsfsi.o)
- .debug_str     0x0000eefb       0xe6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixunssfsi.o)
- .debug_str     0x0000efe1       0xe1 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_aeabi_uldivmod.o)
- .debug_str     0x0000f0c2        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivmoddi4.o)
- .debug_str     0x0000f0c2        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__libc_start_main.o)
- .debug_str     0x0000f0c2        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(libc.o)
- .debug_str     0x0000f0c2       0x78 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__sio_sprintf_doux.o)
- .debug_str     0x0000f13a        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_d.o)
- .debug_str     0x0000f13a        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_o.o)
- .debug_str     0x0000f13a        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_s.o)
- .debug_str     0x0000f13a        0x6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_u.o)
- .debug_str     0x0000f140        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_x.o)
- .debug_str     0x0000f140        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_int.o)
- .debug_str     0x0000f140        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_ptr.o)
- .debug_str     0x0000f140       0x20 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__printf_core.o)
- .debug_str     0x0000f160       0x11 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(stdout.o)
- .debug_str     0x0000f171        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(atoi.o)
- .debug_str     0x0000f171        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memcpy.o)
- .debug_str     0x0000f171        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memset.o)
- .debug_str     0x0000f171        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(strlen.o)
- .debug_str     0x0000f171        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(tolower.o)
- .debug_str     0x0000f171        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(toupper.o)
- .debug_str     0x0000f171        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__environ.o)
- .debug_str     0x0000f171        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__errno_location.o)
- .debug_str     0x0000f171        0xe c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vfprintf.o)
- .debug_str     0x0000f17f        0xc c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsprintf.o)
- .debug_str     0x0000f18b        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_float.o)
- .debug_str     0x0000f18b        0xb c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsnprintf.o)
- .debug_str     0x0000f196        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__init_stdio.o)
- .debug_str     0x0000f196        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__out.o)
- .debug_str     0x0000f196        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_close.o)
- .debug_str     0x0000f196        0x7 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_seek.o)
- .debug_str     0x0000f19d       0x11 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdout.o)
- .debug_str     0x0000f1ae       0x10 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fwrite.o)
- .debug_str     0x0000f1be        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(close.o)
- .debug_str     0x0000f1be        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(lseek.o)
+ .debug_str     0x0000d456       0xb2 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/cstartup.o
+ .debug_str     0x0000d508        0x0 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/fault_handlers.o
+ .debug_str     0x0000d508       0xe9 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/interrupts.o
+ .debug_str     0x0000d5f1      0x12c build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/tasks.o
+ .debug_str     0x0000d71d      0x13d build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app.o
+ .debug_str     0x0000d85a       0xed build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/main.o
+ .debug_str     0x0000d947      0x6da build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen0.o
+ .debug_str     0x0000e021      0x8b5 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1360937237/app_screen1.o
+ .debug_str     0x0000e8d6        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_wrapper.o)
+ .debug_str     0x0000e8d6        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(data_init_0_1.o)
+ .debug_str     0x0000e8d6       0xe5 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivsi3.o)
+ .debug_str     0x0000e9bb       0xe5 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_divsi3.o)
+ .debug_str     0x0000eaa0       0xe5 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_str     0x0000eb85       0xe6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_str     0x0000ec6b       0xe6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_str     0x0000ed51       0xe6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_str     0x0000ee37       0xe6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixsfsi.o)
+ .debug_str     0x0000ef1d       0xe6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_str     0x0000f003       0xe1 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_str     0x0000f0e4        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/arm/v5te/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_str     0x0000f0e4        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__libc_start_main.o)
+ .debug_str     0x0000f0e4        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(libc.o)
+ .debug_str     0x0000f0e4       0x78 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__sio_sprintf_doux.o)
+ .debug_str     0x0000f15c        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_d.o)
+ .debug_str     0x0000f15c        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_o.o)
+ .debug_str     0x0000f15c        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_s.o)
+ .debug_str     0x0000f15c        0x6 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_u.o)
+ .debug_str     0x0000f162        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fmt_x.o)
+ .debug_str     0x0000f162        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_int.o)
+ .debug_str     0x0000f162        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_ptr.o)
+ .debug_str     0x0000f162       0x20 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__printf_core.o)
+ .debug_str     0x0000f182       0x11 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(stdout.o)
+ .debug_str     0x0000f193        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(atoi.o)
+ .debug_str     0x0000f193        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memcpy.o)
+ .debug_str     0x0000f193        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(memset.o)
+ .debug_str     0x0000f193        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(strlen.o)
+ .debug_str     0x0000f193        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(tolower.o)
+ .debug_str     0x0000f193        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(toupper.o)
+ .debug_str     0x0000f193        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__environ.o)
+ .debug_str     0x0000f193        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__errno_location.o)
+ .debug_str     0x0000f193        0xe c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vfprintf.o)
+ .debug_str     0x0000f1a1        0xc c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsprintf.o)
+ .debug_str     0x0000f1ad        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__pop_float.o)
+ .debug_str     0x0000f1ad        0xb c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__int_vsnprintf.o)
+ .debug_str     0x0000f1b8        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__init_stdio.o)
+ .debug_str     0x0000f1b8        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__out.o)
+ .debug_str     0x0000f1b8        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_close.o)
+ .debug_str     0x0000f1b8        0x7 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdio_seek.o)
+ .debug_str     0x0000f1bf       0x11 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__stdout.o)
+ .debug_str     0x0000f1d0       0x10 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libg-musl.a(__fwrite.o)
+ .debug_str     0x0000f1e0        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(close.o)
+ .debug_str     0x0000f1e0        0x0 c:/program files/microchip/xc32/v4.20/bin/bin/../../lib/gcc/pic32c/8.3.1/../../../../pic32c/lib/arm/v5te/nofp\libpic32c.a(lseek.o)
 
 .debug_frame    0x00000000     0x8fc4
  .debug_frame   0x00000000       0x20 build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/236556520/bsp.o

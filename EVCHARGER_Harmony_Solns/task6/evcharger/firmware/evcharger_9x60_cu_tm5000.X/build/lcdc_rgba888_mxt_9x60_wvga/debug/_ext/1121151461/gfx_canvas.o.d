@@ -172,6 +172,7 @@ build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1121151461/gfx_canvas.o: \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/rtc/plib_rtc.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/rtc/plib_rtc_common.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/lcdc/plib_lcdc.h \
+ ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/canvas/gfx_canvas_api.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/driver/i2c/drv_i2c.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/driver/i2c/drv_i2c_definitions.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/system/system_module.h \
@@ -188,7 +189,6 @@ build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1121151461/gfx_canvas.o: \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/device.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/osal/osal_definitions.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/osal/osal_impl_basic.h \
- ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/canvas/gfx_canvas_api.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/system/time/sys_time.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/system/system.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/system/system_common.h \
@@ -551,6 +551,8 @@ build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1121151461/gfx_canvas.o: \
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/lcdc/plib_lcdc.h:
 
+../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/canvas/gfx_canvas_api.h:
+
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/driver/i2c/drv_i2c.h:
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/driver/i2c/drv_i2c_definitions.h:
@@ -582,8 +584,6 @@ build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1121151461/gfx_canvas.o: \
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/osal/osal_definitions.h:
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/osal/osal_impl_basic.h:
-
-../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/canvas/gfx_canvas_api.h:
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/system/time/sys_time.h:
 

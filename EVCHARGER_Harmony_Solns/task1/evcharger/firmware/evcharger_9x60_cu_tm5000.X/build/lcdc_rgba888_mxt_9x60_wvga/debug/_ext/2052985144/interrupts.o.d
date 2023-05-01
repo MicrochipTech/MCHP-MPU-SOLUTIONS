@@ -155,6 +155,7 @@ build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/interrupts.o: \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/button/legato_widget_button.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/image/legato_widget_image.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/label/legato_widget_label.h \
+ ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/rectangle/legato_widget_rectangle.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/generated/le_gen_scheme.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/generated/le_gen_assets.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_Screen0.h \
@@ -163,10 +164,10 @@ build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/interrupts.o: \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/device.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/aic/plib_aic.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/driver/controller/lcdc/drv_gfx_lcdc.h \
- ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/tc/plib_tc0.h \
- ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/tc/plib_tc_common.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/flexcom/twi/master/plib_flexcom6_twi_master.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/flexcom/twi/master/plib_flexcom_twi_master_common.h \
+ ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/tc/plib_tc0.h \
+ ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/tc/plib_tc_common.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/lcdc/plib_lcdc.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/driver/i2c/drv_i2c.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/driver/i2c/drv_i2c_definitions.h \
@@ -510,6 +511,8 @@ build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/interrupts.o: \
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/label/legato_widget_label.h:
 
+../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/rectangle/legato_widget_rectangle.h:
+
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/generated/le_gen_scheme.h:
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/generated/le_gen_assets.h:
@@ -526,13 +529,13 @@ build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/2052985144/interrupts.o: \
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/driver/controller/lcdc/drv_gfx_lcdc.h:
 
-../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/tc/plib_tc0.h:
-
-../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/tc/plib_tc_common.h:
-
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/flexcom/twi/master/plib_flexcom6_twi_master.h:
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/flexcom/twi/master/plib_flexcom_twi_master_common.h:
+
+../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/tc/plib_tc0.h:
+
+../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/tc/plib_tc_common.h:
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/peripheral/lcdc/plib_lcdc.h:
 

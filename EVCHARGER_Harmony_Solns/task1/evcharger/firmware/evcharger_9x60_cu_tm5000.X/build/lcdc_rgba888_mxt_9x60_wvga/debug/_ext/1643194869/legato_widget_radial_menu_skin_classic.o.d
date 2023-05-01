@@ -34,6 +34,7 @@ build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/button/legato_widget_button.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/image/legato_widget_image.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/label/legato_widget_label.h \
+ ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/rectangle/legato_widget_rectangle.h \
  ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/radialmenu/legato_widget_radial_menu.h
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/legato.h:
@@ -103,5 +104,7 @@ build/lcdc_rgba888_mxt_9x60_wvga/debug/_ext/1643194869/legato_widget_radial_menu
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/image/legato_widget_image.h:
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/label/legato_widget_label.h:
+
+../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/rectangle/legato_widget_rectangle.h:
 
 ../src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/radialmenu/legato_widget_radial_menu.h:

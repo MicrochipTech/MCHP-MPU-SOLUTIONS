@@ -3396,7 +3396,8 @@
          <key class="com.microchip.mcc.core.tokenManager.CustomKey" moduleName="core" name="!@#harmonyUserData"/>
          <value>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;UserData&gt;
   &lt;UserData dnOrder=&quot;0&quot;&gt;
-    &lt;ComponentGraph dnOrder=&quot;0&quot; id=&quot;__ROOTVIEW&quot;&gt;
+    &lt;GraphSettings canvasHeight=&quot;525&quot; canvasWidth=&quot;702&quot; dnOrder=&quot;0&quot;/&gt;
+    &lt;ComponentGraph dnOrder=&quot;1&quot; id=&quot;__ROOTVIEW&quot;&gt;
       &lt;ElementPositions dnOrder=&quot;0&quot;&gt;
         &lt;ElementPosition dnOrder=&quot;0&quot; id=&quot;BSP_SAM_9X60_Curiosity&quot; x=&quot;240&quot; y=&quot;20&quot;/&gt;
         &lt;ElementPosition dnOrder=&quot;1&quot; id=&quot;HarmonyCore&quot; x=&quot;276&quot; y=&quot;49&quot;/&gt;
@@ -3418,7 +3419,6 @@
         &lt;ElementPosition dnOrder=&quot;17&quot; id=&quot;tc0&quot; x=&quot;465&quot; y=&quot;179&quot;/&gt;
       &lt;/ElementPositions&gt;
     &lt;/ComponentGraph&gt;
-    &lt;GraphSettings canvasHeight=&quot;525&quot; canvasWidth=&quot;702&quot; dnOrder=&quot;1&quot;/&gt;
   &lt;/UserData&gt;
 &lt;/UserData&gt;
 </value>
@@ -10583,12 +10583,12 @@
          <hash>012f6194a63c2ffae2945f296436493b16d6e7e175a1a5cffb7266fb29216333</hash>
       </entry>
       <entry>
-         <file>..\src\config\lcdc_rgba888_mxt_9x60_wvga\gfx\canvas\gfx_canvas_api.c</file>
-         <hash>adf0da4dd5db3d777043ee54adc11746a7b9f7990a4e5b9153b3aada30b71114</hash>
-      </entry>
-      <entry>
          <file>..\src\config\lcdc_rgba888_mxt_9x60_wvga\system\time\src\sys_time_local.h</file>
          <hash>d3ef06b59d9a89efe9e8eb54fcf3b75120d56156cc21f6847ca4f9e902eb7c9d</hash>
+      </entry>
+      <entry>
+         <file>..\src\config\lcdc_rgba888_mxt_9x60_wvga\gfx\canvas\gfx_canvas_api.c</file>
+         <hash>adf0da4dd5db3d777043ee54adc11746a7b9f7990a4e5b9153b3aada30b71114</hash>
       </entry>
       <entry>
          <file>..\src\config\lcdc_rgba888_mxt_9x60_wvga\gfx\legato\common\legato_color_blend.c</file>
@@ -11444,11 +11444,11 @@
       </entry>
       <entry>
          <file>..\src\config\lcdc_rgba888_mxt_9x60_wvga\definitions.h</file>
-         <hash>cf3bfa7bf89c26d6a7dba3b5086b6a4485ffac8bbd9613a63fe6cc7250cef5cb</hash>
+         <hash>9f94934c26b6f446a9a8c670ab5329ed5a529c95998a10a366d0ea8c15acbe49</hash>
       </entry>
       <entry>
          <file>..\src\config\lcdc_rgba888_mxt_9x60_wvga\initialization.c</file>
-         <hash>7f36f1d9436ad429e43f1930f392ac286dc89f943e0f67d2081d3056d6327636</hash>
+         <hash>76ec222b5d70fe73a4239f8d171a6172d1ea2ba32a1a70e1da467c9b5ea0ec06</hash>
       </entry>
       <entry>
          <file>..\src\config\lcdc_rgba888_mxt_9x60_wvga\gfx\legato\image\legato_image_utils.h</file>

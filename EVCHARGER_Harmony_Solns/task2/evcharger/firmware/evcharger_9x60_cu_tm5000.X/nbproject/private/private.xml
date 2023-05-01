@@ -3,16 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/c40450/HarmonyProjects/evcharger/firmware/src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_Screen0.h</file>
-            <file>file:/C:/Users/c40450/HarmonyProjects/evcharger/firmware/src/config/lcdc_rgba888_mxt_9x60_wvga/fault_handlers.c</file>
-            <file>file:/C:/Users/c40450/HarmonyProjects/evcharger/firmware/src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/generated/le_gen_init.h</file>
-            <file>file:/C:/Users/c40450/HarmonyProjects/evcharger/firmware/src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_Screen0.c</file>
-            <file>file:/C:/Users/c40450/HarmonyProjects/evcharger/firmware/src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/widget/legato_widget.c</file>
-            <file>file:/C:/Users/c40450/HarmonyProjects/evcharger/firmware/src/app_screen0.c</file>
-            <file>file:/C:/Users/c40450/HarmonyProjects/evcharger/firmware/src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/legato/core/legato_state.c</file>
-            <file>file:/C:/Users/c40450/HarmonyProjects/evcharger/firmware/src/config/lcdc_rgba888_mxt_9x60_wvga/tasks.c</file>
-            <file>file:/C:/Users/c40450/HarmonyProjects/evcharger/firmware/src/config/lcdc_rgba888_mxt_9x60_wvga/cstartup.S</file>
-            <file>file:/C:/Users/c40450/HarmonyProjects/evcharger/firmware/src/config/lcdc_rgba888_mxt_9x60_wvga/ddram.ld</file>
+            <file>file:/C:/work/training/MCHP-MPU-SOLUTIONS/EVCHARGER_Harmony_Solns/task2/evcharger/firmware/src/app.c</file>
+            <file>file:/C:/work/training/MCHP-MPU-SOLUTIONS/EVCHARGER_Harmony_Solns/task2/evcharger/firmware/src/config/lcdc_rgba888_mxt_9x60_wvga/gfx/driver/controller/lcdc/drv_gfx_lcdc.c</file>
         </group>
     </open-files>
 </project-private>
